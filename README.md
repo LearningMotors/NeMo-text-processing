@@ -1,6 +1,8 @@
 **NeMo Text Processing**
 ==========================
 
+This repo is not deployed as a service. This is used to the train the ITN model deployed with https://github.com/LearningMotors/inverse-text-normalization-nemo.
+
 Introduction
 ------------
 
